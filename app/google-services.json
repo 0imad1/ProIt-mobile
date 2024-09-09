@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "716300026457",
+    "project_id": "spring-boot-notification-c4251",
+    "storage_bucket": "spring-boot-notification-c4251.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716300026457:android:9f0780f9c768acb37ca748",
+        "android_client_info": {
+          "package_name": "com.example.proit_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIdH3kTfRnAeML9NwtdMGdmQIoYoNEEc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
